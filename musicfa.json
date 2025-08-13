@@ -1,0 +1,99 @@
+{
+  "tops": [
+    {
+      "id": 1,
+      "title": "Lin Bazi",
+      "artist": "Bandekhoda",
+      "image": "https://s6.uupload.ir/files/-2147483648_-215267_zgcn.jpg",
+      "audio": "https://uploadkon.ir/uploads/347910_25Lin-Bazi.mp3"
+    },
+    {
+      "id": 2,
+      "title": "To",
+      "artist": "Bandekhoda",
+      "image": "https://rozup.ir/view/4092105/artworks-9PCR9tXKzMNl81hD-txO8Sw-t500x500.jpg",
+      "audio": "https://uploadkon.ir/uploads/641611_25To-Bandekhodatunes-SoundLoadMate-com.mp3"
+    },
+    {
+      "id": 3,
+      "title": "BFK2",
+      "artist": "Bandekhoda",
+      "image": "https://rozup.ir/view/4091504/IMG_20230130_213913_113.jpg",
+      "audio": "https://dl.papilmusic.ir/Music/Bande%20Khoda%20-%20Bia%20Fek%20Konim%202%20128.mp3"
+    }
+  ],
+  "newMyArtists": [
+    {
+      "id": 4,
+      "title": "Yalda",
+      "artist": "Hossein Filo",
+      "image": "https://rozup.ir/view/4091454/InShot_20241219_072729629.jpg",
+      "audio": "https://uploadkon.ir/uploads/ccf010_25yalda.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Lin Bazi",
+      "artist": "Bandekhoda",
+      "image": "https://s6.uupload.ir/files/-2147483648_-215267_zgcn.jpg",
+      "audio": "https://uploadkon.ir/uploads/347910_25Lin-Bazi.mp3"
+    },
+    {
+      "id": 6,
+      "title": "BFK3",
+      "artist": "Bandekhoda",
+      "image": "https://files.memebox.ir/thumbs/templates/c2253e01-0b95-4fa3-9129-8b5a3e9ca601.webp",
+      "audio": "https://uploadkon.ir/uploads/f66310_25Bia-Fek-Konim-3.mp3"
+    },
+    {
+      "id": 7,
+      "title": "BFK2",
+      "artist": "Bandekhoda",
+      "image": "https://rozup.ir/view/4091504/IMG_20230130_213913_113.jpg",
+      "audio": "https://dl.papilmusic.ir/Music/Bande%20Khoda%20-%20Bia%20Fek%20Konim%202%20128.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Talangor",
+      "artist": "Hossein Filo",
+      "image": "https://i1.sndcdn.com/artworks-Fne3AZP91WezDn9R-fYuO3A-t500x500.jpg",
+      "audio": "https://uploadkon.ir/uploads/4f7811_25Talangor-HosseinFilo-SoundLoadMate-com.mp3"
+    },
+    {
+      "id": 9,
+      "title": "GTA",
+      "artist": "Hossein Filo",
+      "image": "https://i1.sndcdn.com/artworks-Xw3Vy9Ww97pqnYK6-ygOoKQ-t500x500.jpg",
+      "audio": "https://uploadkon.ir/uploads/3af912_25GTA-Hossein-Filo-HosseinFilo-SoundLoadMate-com.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Janjal",
+      "artist": "Hossein Filo",
+      "image": "https://i1.sndcdn.com/artworks-t7HzGYaooPFlH1Ne-GAhtQg-t500x500.jpg",
+      "audio": "https://uploadkon.ir/uploads/a90112_25Janjal-Hossein-Filo-mp3-HosseinFilo-SoundLoadMate-com.mp3"
+    }
+  ],
+  "otherSongs": [
+    {
+      "id": 11,
+      "title": "To",
+      "artist": "Bandekhoda",
+      "image": "https://rozup.ir/view/4092105/artworks-9PCR9tXKzMNl81hD-txO8Sw-t500x500.jpg",
+      "audio": "https://uploadkon.ir/uploads/641611_25To-Bandekhodatunes-SoundLoadMate-com.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Oon Hamaro Did",
+      "artist": "Monfak Filo ft. Bandekhoda",
+      "image": "https://rozup.ir/view/4092108/artworks-A98hQ1Bo2Z1XQwyH-GawGlA-t500x500.jpg",
+      "audio": "https://uploadkon.ir/uploads/b16611_25Oon-Hamaro-Did-Monfak-Filo-Ft-Bandekhoda-SoundLoadMate-com.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Otaghe Sard",
+      "artist": "Bandekhoda",
+      "image": "https://i1.sndcdn.com/artworks-TVTGYHk54gaeOXKe-wFPBtA-t500x500.jpg",
+      "audio": "https://uploadkon.ir/uploads/37e912_25Otaghe-Sard-Ft-Bandekhoda-Prod-Sina-Mafee-Alimow-x-Bandekhoda-SoundLoadMate-com.mp3"
+    }
+  ]
+}
